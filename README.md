@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything about JAVA Programming and Ardunio Projects.
 - 🌱 I’m currently learning everything.
 - ⚡ Fun fact: I love to play bass guitar,rock music and playing video games.
-- 📫 How to reach me: on e-mail, Instagram or Twitter.
+- 📫 How to reach me: on e-mail, Instagram or Twitter(<a href="https://twitter.com/BerkBysl" rel="nofollow">@BerkBysl</a>).
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=berkbysl&show_icons=true&theme=radical)
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=black&link=link)](https://www.instagram.com/berk_bysl/) 
 
-<a href="https://twitter.com/BerkBysl" rel="nofollow">@BerkBysl</a>
+
 -->
