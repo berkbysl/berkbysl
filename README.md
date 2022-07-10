@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I am currently working on a project that provides stock follow-up of the materials in the hospital and more something programming. 
-- 💬 Ask me about this project.
+- 💬 Ask me about this project and anything about JAVA Programming.
 - 🌱 I’m currently learning everything.
 - ⚡ Fun fact: I love to play bass guitar,rock music and playing video games.
 - 📫 How to reach me: on e-mail, Instagram or Twitter.
